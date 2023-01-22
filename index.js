@@ -7,4 +7,5 @@ arr.push("Maçã");
 arr.push("Banana");
 arr.push("Laranja");
 
-console.log(arr)*/
+console.log(arr);
+//Resposta: [ 'Uva', 'Maçã', 'Banana', 'Laranja' ];*/
